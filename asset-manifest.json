@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUtils-React-kuldeep/static/css/main.e6c13ad2.css",
+    "main.js": "/TextUtils-React-kuldeep/static/js/main.f732e7f4.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUtils-React-kuldeep/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUtils-React-kuldeep/index.html",
+    "main.e6c13ad2.css.map": "/TextUtils-React-kuldeep/static/css/main.e6c13ad2.css.map",
+    "main.f732e7f4.js.map": "/TextUtils-React-kuldeep/static/js/main.f732e7f4.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUtils-React-kuldeep/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f732e7f4.js"
+  ]
+}

@@ -36,11 +36,11 @@ function Header(props) {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link" href="/" style={props.style1}>
                   About
                 </a>
-              </li>
+              </li> */}
             </ul>
             <form className="d-flex" role="search">
               <div className="container" style={{ display: "contents" }}>
